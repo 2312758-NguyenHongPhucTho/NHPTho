@@ -1,0 +1,9 @@
+Z:\Lab6\BusinessLogic\bin\Debug\BusinessLogic.dll
+Z:\Lab6\BusinessLogic\bin\Debug\BusinessLogic.pdb
+Z:\Lab6\BusinessLogic\bin\Debug\DataAccess.dll
+Z:\Lab6\BusinessLogic\bin\Debug\DataAccess.pdb
+Z:\Lab6\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+Z:\Lab6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+Z:\Lab6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+Z:\Lab6\BusinessLogic\obj\Debug\BusinessLogic.dll
+Z:\Lab6\BusinessLogic\obj\Debug\BusinessLogic.pdb
