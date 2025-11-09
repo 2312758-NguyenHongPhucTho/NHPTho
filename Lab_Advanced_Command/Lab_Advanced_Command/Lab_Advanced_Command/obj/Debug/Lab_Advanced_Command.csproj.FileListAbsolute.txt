@@ -1,0 +1,16 @@
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\bin\Debug\2312777_Lab_Advanced_Command.exe.config
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\bin\Debug\2312777_Lab_Advanced_Command.exe
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\bin\Debug\2312777_Lab_Advanced_Command.pdb
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.AssemblyReference.cache
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\2312777_Lab_Advanced_Command.exe.config
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\_2312777_Lab_Advanced_Command.Properties.Resources.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.GenerateResource.cache
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.CoreCompileInputs.cache
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\2312777_Lab_Advanced_Command.exe
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\2312777_Lab_Advanced_Command.pdb
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Basic_Command.AccountManagerForm.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Basic_Command.RoleListForm.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodForm.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodInfoForm.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.OrderDetailsForm.resources
+C:\Users\PhucTho\Desktop\Lab_Advanced_Command\Lab_Advanced_Command\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.OrdersForm.resources
